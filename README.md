@@ -35,128 +35,136 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Fidessa, more chaste then kinde. By B. Griffin, gentGriffin, B., gent.1596Approx. 53 KB of XML-encod
+
+1. TO THE MOST KINDE AND VERTVous gentleman, M. VVilliam Eſſex of Lamebourne, in the Countie of Barke Eſquire.
+
+1. TO THE GENTLEMEN OF THE INNES OF COVRT.
+
+1. Faultes eſcaped, amend thus.
+
 #####Body#####
 
-1. SONNET .I. Fertur fortunam fortuna fauêere ferenti.
+1. TO FIDESSA.
 
-1. SONNET .II.
+    _ SONNET .I. Fertur fortunam fortuna fauêere ferenti.
 
-1. SONNET .III.
+    _ SONNET .II.
 
-1. SONNET .IIII.
+    _ SONNET .III.
 
-1. SONNET .V.
+    _ SONNET .IIII.
 
-1. SONNET .VI.
+    _ SONNET .V.
 
-1. SONNET .VII.
+    _ SONNET .VI.
 
-1. SONNET .VIII.
+    _ SONNET .VII.
 
-1. SONNET .IX.
+    _ SONNET .VIII.
 
-1. SONNET .X.
+    _ SONNET .IX.
 
-1. SONNET .XI.
+    _ SONNET .X.
 
-1. SONNET .XII.
+    _ SONNET .XI.
 
-1. SONNET .XIII.
+    _ SONNET .XII.
 
-1. SONNET .XIIII.
+    _ SONNET .XIII.
 
-1. SONNET .XV.
+    _ SONNET .XIIII.
 
-1. SONNET .XVI.
+    _ SONNET .XV.
 
-1. SONNET .XVII.
+    _ SONNET .XVI.
 
-1. SONNET .XXVIII.
+    _ SONNET .XVII.
 
-1. SONNET .XIX.
+    _ SONNET .XXVIII.
 
-1. SONNET .XX.
+    _ SONNET .XIX.
 
-1. SONNET .XXI.
+    _ SONNET .XX.
 
-1. SONNET .XXII.
+    _ SONNET .XXI.
 
-1. SONNET .XXIII.
+    _ SONNET .XXII.
 
-1. SONNET .XXIIII.
+    _ SONNET .XXIII.
 
-1. SONNET .XXV.
+    _ SONNET .XXIIII.
 
-1. SONNET .XXVI.
+    _ SONNET .XXV.
 
-1. SONNET .XXVII.
+    _ SONNET .XXVI.
 
-1. SONNET .XXVIII.
+    _ SONNET .XXVII.
 
-1. SONNET .XXIX.
+    _ SONNET .XXVIII.
 
-1. SONNET .XXX.
+    _ SONNET .XXIX.
 
-1. SONNET .XXXI.
+    _ SONNET .XXX.
 
-1. SONNET .XXXII.
+    _ SONNET .XXXI.
 
-1. SONNET .XXXIII.
+    _ SONNET .XXXII.
 
-1. SONNET .XXXIIII.
+    _ SONNET .XXXIII.
 
-1. SONNET .XXXV
+    _ SONNET .XXXIIII.
 
-1. SONNET .XXXVI.
+    _ SONNET .XXXV
 
-1. SONNET .XXXVII.
+    _ SONNET .XXXVI.
 
-1. SONNET .XXXVIII.
+    _ SONNET .XXXVII.
 
-1. SONNET .XXXXIX.
+    _ SONNET .XXXVIII.
 
-1. SONNET .XL.
+    _ SONNET .XXXXIX.
 
-1. SONNET .XLI.
+    _ SONNET .XL.
 
-1. SONNET .XLII.
+    _ SONNET .XLI.
 
-1. SONNET .XLIII.
+    _ SONNET .XLII.
 
-1. SONNET .XLIIII.
+    _ SONNET .XLIII.
 
-1. SONNET .XLV.
+    _ SONNET .XLIIII.
 
-1. SONNET .XLVIII.
+    _ SONNET .XLV.
 
-1. SONNET .XLIX.
+    _ SONNET .XLVIII.
 
-1. SONNET .L.
+    _ SONNET .XLIX.
 
-1. SONNET .LI.
+    _ SONNET .L.
 
-1. SONNET .LII.
+    _ SONNET .LI.
 
-1. SONNET .LIII.
+    _ SONNET .LII.
 
-1. SONNET .LIIII.
+    _ SONNET .LIII.
 
-1. SONNET .LV.
+    _ SONNET .LIIII.
 
-1. SONNET .LVI.
+    _ SONNET .LV.
 
-1. SONNET .LVII.
+    _ SONNET .LVI.
 
-1. SONNET .LVIII.
+    _ SONNET .LVII.
 
-1. SONNET .LIX.
+    _ SONNET .LVIII.
 
-1. SONNET .LX.
+    _ SONNET .LIX.
 
-1. SONNET .LXI.
+    _ SONNET .LX.
 
-1. SONNET .LXII.
+    _ SONNET .LXI.
+
+    _ SONNET .LXII.
 
 **Types of content**
 
